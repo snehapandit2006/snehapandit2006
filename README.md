@@ -42,20 +42,43 @@ I am a B.Tech Computer Science & Engineering student (specializing in AI & ML) a
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehapandit2006&show_icons=true&theme=tokyonight&count_private=true" alt="Sneha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapandit2006&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snchapandit2006&show_icons=true&theme=tokyonight&count_private=true" alt="Sneha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snchapandit2006&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehapandit2006&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snchapandit2006&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 Highlighted Projects
 
-* **Sentia (Multimodal Emotion Drift Analytics Platform):** Architected a 7-stage parallel inference pipeline utilizing a Python `ThreadPoolExecutor` to handle concurrent text and vocal feature extractions under P95 < 4s latency. Features a confidence-weighted late-fusion architecture (RoBERTa + CNN) to map temporal emotional instability using TVD metrics.
-* **Panopticon (Distributed Political-Economic Data Observability Engine):** Engineered a type-safe, distributed tracing backend handling 10k+ structured events/day using TypeScript, BullMQ task queues, and Prisma ORM.
+* **Guidewire DevTrails Team Project | AI-Powered Parametric Gig-Worker Insurance Engine**
+  * *GitHub:* [Roccodevil/Guidewire](https://github.com/Roccodevil/Guidewire) | *Tech:* Python, FastAPI, Machine Learning, OpenWeather/AQI REST APIs
+  * Engineered a zero-touch parametric insurance platform protecting India's quick-commerce gig-delivery workforce against a 20-30% volatile income loss caused by environmental and civic disruptions (extreme weather, hazardous AQI, curfews).
+  * Configured an automated trigger engine that evaluates environmental metrics and ingests geospatial shifts every 5 minutes to cross-check live shifts and instantly execute claim routes.
+  * Co-developed an anti-fraud security layer parsing behavioral anomaly models (GPS spoofing, location boundary cross-checks, and account clustering) to safeguard insurers against artificial claim injections.
+
+* **Bhumi | Smart Land Governance AI Engine**
+  * *Tech:* Python, Async Backend Frameworks, Asynchronous Data Ingestion, Model Validation Layers
+  * Architected the core asynchronous backend architecture and cross-model validation systems for a smart land governance platform selected as a National Finalist out of thousands of competing teams at the **Smart India Hackathon (SIH) 2024** Grand Finale.
+
+* **Sentia | Multimodal Emotion Drift Analytics Platform**
+  * *Tech:* Python, PyTorch, RoBERTa, FastAPI, WebSockets, ThreadPoolExecutor
+  * Architected a 7-stage parallel inference pipeline executing concurrent text and vocal feature extraction loops via a Python `ThreadPoolExecutor` to maintain a strict P95 latency < 4s. Features a confidence-weighted late-fusion architecture (RoBERTa + CNN) to map temporal emotional instability using Total Variation Distance (TVD) metrics across user sessions.
+
+* **Panopticon | Distributed Political-Economic Data Observability Engine**
+  * *Tech:* TypeScript, Node.js, Express, Prisma ORM, BullMQ, Redis, WebSockets
+  * Engineered a type-safe, distributed tracing backend handling 10k+ structured events/day using TypeScript, background BullMQ worker queues, and Prisma ORM alongside real-time diagnostic telemetry WebSocket loops.
+
+* **Saheli Connect**
+  * *Tech:* React, Node.js, Express, RESTful APIs, JWT Authentication, MongoDB
+  * Developed a secure social and resource network framework prioritizing low-resource client devices. Integrated robust multi-tier authentication endpoints and modular relational schemas to optimize communication stability and user onboarding.
+
+* **SaveMate**
+  * *Tech:* JavaScript, Node.js, SQL/SQLite, Cryptographic Encryption, State Management
+  * Architected a micro-financial tracking utility utilizing local database optimization paradigms and client-side data state binding. Implemented custom localized validation loops to securely log transaction payloads safely.
 
 ---
 
