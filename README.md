@@ -1,12 +1,20 @@
 # Hi there, I'm Sneha! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Debugging+tensors+at+midnight...;Pretending+CUDA+errors+are+learning+exp...;Building+high-concurrency+AI+systems;Student+Research+Engineer" alt="Typing SVG" />
+</p>
+
 > *"Because apparently normal hobbies were too peaceful, so now there’s debugging tensors at midnight and pretending CUDA errors are learning experiences."* 💀
 
 I am an undergraduate Computer Science & Engineering student specializing in AI/ML. I bridge the gap between advanced deep learning workflows and high-concurrency, type-safe backend systems.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehapandit2006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sneha's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapandit2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" height="180"/>
+  <a href="https://github.com/snehapandit2006">
+    <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=snehapandit2006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sneha's GitHub Stats" height="165"/>
+  </a>
+  <a href="https://github.com/snehapandit2006">
+    <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=snehapandit2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" height="165"/>
+  </a>
 </p>
 
 ---
