@@ -42,12 +42,12 @@ I am a B.Tech Computer Science & Engineering student (specializing in AI & ML) a
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snchapandit2006&show_icons=true&theme=tokyonight&count_private=true" alt="Sneha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snchapandit2006&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehapandit2006&show_icons=true&theme=tokyonight&count_private=true" alt="Sneha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapandit2006&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snchapandit2006&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehapandit2006&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
