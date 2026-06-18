@@ -20,6 +20,9 @@
 <a href="https://www.linkedin.com/in/sneha-pandit-19010729b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://x.com/youknowme_how" target="_blank">
+  <img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
 <a href="mailto:sneha20061901@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
