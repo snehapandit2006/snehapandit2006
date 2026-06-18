@@ -290,30 +290,6 @@ Designed and deployed production-grade applications integrating AI capabilities 
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Skills-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -331,14 +307,15 @@ Designed and deployed production-grade applications integrating AI capabilities 
 
 ---
 
-# GitHub Trophies
+# GitHub Trophies & Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.md.net/?username=snehapandit2006&theme=tokyonight&no-frame=true&row=1&column=7"/>
+![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)
+![](https://img.shields.io/github/issues-pr-closed/snehapandit2006?style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/repo-size/snehapandit2006/Sentia?style=for-the-badge&label=Sentia%20Size&color=A855F7)
 
 </div>
-
 ---
 
 # Contribution Activity
@@ -355,7 +332,11 @@ Designed and deployed production-grade applications integrating AI capabilities 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/main/github-contribution-grid-snake-dark.svg" alt="github contribution snake" onerror="this.src='https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake-dark.svg'"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
