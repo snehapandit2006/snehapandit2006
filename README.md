@@ -6,33 +6,35 @@
 
 <br/>
 
-![](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/GLA-University-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Research-Multimodal%20AI-A855F7?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-GSSoC%20Admin-6366F1?style=for-the-badge)
+🎨 **Fields of Expertise**
+<br>
+🧬 `B.Tech AI & ML` • 🎓 `GLA University` • 🤖 `Multimodal AI Research` • 🌐 `GSSoC Admin`
 
-![](https://img.shields.io/badge/Location-Mathura%2C%20India-7C3AED?style=flat-square)
+---
 
-<a href="https://portfolio-orpin-beta-j0xqetvkmx.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+### 🔗 Let's Connect
+
+<a href="https://portfolio-orpin-beta-j0xqetvkmx.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/sneha-pandit-19010729b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sneha20061901@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/snehapandit2006" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/in/sneha-pandit-19010729b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
 
-<a href="mailto:sneha20061901@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📍 *Based in Mathura, India*
 
-<a href="https://github.com/snehapandit2006">
-<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=snehapandit2006&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/snehapandit2006?style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/snehapandit2006?style=flat-square&color=4F46E5)
 ![](https://img.shields.io/github/stars/snehapandit2006?affiliations=OWNER&style=flat-square&color=A855F7)
 
 </div>
