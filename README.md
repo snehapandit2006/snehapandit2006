@@ -307,15 +307,15 @@ Designed and deployed production-grade applications integrating AI capabilities 
 
 ---
 
-# GitHub Trophies & Stats
+# GitHub Core Metrics
 
 <div align="center">
 
-![](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github)
-![](https://img.shields.io/github/issues-pr-closed/snehapandit2006?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/repo-size/snehapandit2006/Sentia?style=for-the-badge&label=Sentia%20Size&color=A855F7)
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehapandit2006&theme=tokyonight" alt="Sneha's GitHub Metrics" />
 
 </div>
+
+
 ---
 
 # Contribution Activity
