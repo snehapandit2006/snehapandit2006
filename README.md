@@ -378,3 +378,285 @@ not just technology that responds to them."
 ```
 
 ---
+
+---
+
+# $ cd projects
+
+```console
+Opening Project Explorer...
+
+Workspace Loaded Successfully.
+
+Projects Found: 4
+
+──────────────────────────────────────────────────────────────
+```
+
+<details open>
+<summary><b>📁 Sentia</b></summary>
+
+<br>
+
+```yaml
+Project:
+    Sentia
+
+Type:
+    Multimodal AI Platform
+
+Status:
+    Active Development
+
+Focus:
+    Emotion Analysis
+    Cognitive Modeling
+    Long-Term Memory
+    Behavioral Pattern Detection
+
+Tech Stack:
+    Python
+    FastAPI
+    PyTorch
+    LangGraph
+    LangChain
+    SQLite
+
+Repository:
+    github.com/snehapandit2006/Sentia
+```
+
+### Features
+
+- Emotion Detection
+- Cognitive State Tracking
+- Long-Term Conversation Memory
+- Behavioral Pattern Analysis
+- RAG-powered Reasoning
+- Explainable AI
+
+```
+Current Progress
+
+█████████████████████████████░░░░ 88%
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>📁 Bhumi</b></summary>
+
+<br>
+
+```yaml
+Project:
+    Bhumi
+
+Type:
+    AI-powered Land Governance
+
+Status:
+    Active Development
+
+Domain:
+    Legal AI
+    Government Technology
+
+Stack:
+    FastAPI
+    LangChain
+    ChromaDB
+    Python
+
+Goal:
+    Make land records easier to search,
+    understand and verify using AI.
+```
+
+### Features
+
+- Retrieval-Augmented Generation
+- Legal Document Search
+- Vector Database Search
+- Semantic Querying
+- AI Assistant
+
+```
+Current Progress
+
+████████████████████████░░░░░░░░ 74%
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>📁 AstroAgent</b></summary>
+
+<br>
+
+```yaml
+Project:
+    AstroAgent
+
+Type:
+    AI Companion
+
+Status:
+    Stable
+
+Purpose:
+    Personalized AI-assisted
+    astrology conversations
+
+Stack:
+    React
+    FastAPI
+    SQLite
+    LangChain
+
+Features:
+    Birth Chart Generation
+    Chat Interface
+    Offline Calculations
+    Persistent Memory
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>📁 Panopticon</b></summary>
+
+<br>
+
+```yaml
+Project:
+    Panopticon
+
+Type:
+    Distributed Intelligence Platform
+
+Domain:
+    Political & Economic Intelligence
+
+Stack:
+    Node.js
+    BullMQ
+    LangChain
+    Redis
+
+Purpose:
+    Large-scale event monitoring
+    and information retrieval.
+```
+
+</details>
+
+---
+
+# $ project-summary
+
+```text
+Repositories
+
+Public Projects ............... 20+
+
+AI Projects ................... 8+
+
+Languages ..................... 5+
+
+Frameworks .................... 15+
+
+Years Coding .................. 4+
+
+Open Source ................... Active
+```
+
+---
+
+# $ ls research/
+
+```text
+research/
+
+├── Computational Neuroscience
+
+├── Cognitive Science
+
+├── Human Memory
+
+├── Emotion AI
+
+├── LLM Evaluation
+
+├── Agentic AI
+
+├── Human-AI Interaction
+
+└── Multimodal Systems
+```
+
+---
+
+# $ research --active
+
+```yaml
+Current Reading
+
+• The Man Who Mistook His Wife for a Hat
+
+• Attention Is All You Need
+
+• ReAct
+
+• Toolformer
+
+• LangGraph Documentation
+
+• Computational Psychiatry Papers
+
+Research Goal
+
+Bridge AI engineering with
+cognitive science to build
+more human-centered intelligent systems.
+```
+
+---
+
+# $ history --career
+
+```text
+2026
+
+├── Project Administrator
+│   GirlScript Summer of Code
+│
+├── Google Cloud Facilitator
+│
+├── Smart India Hackathon
+│   National Finalist
+│
+└── Building AI Products
+```
+
+---
+
+# $ learning --status
+
+| Area | Progress |
+|------|----------|
+| LLM Engineering | ████████████████░░ |
+| Agentic AI | ██████████████░░░░ |
+| LangGraph | █████████████████░ |
+| PyTorch | ███████████████░░░ |
+| Cognitive Science | █████████████░░░░ |
+| Neuroscience | ██████████░░░░░░░ |
+| MLOps | █████████░░░░░░░░░ |
+
+---
