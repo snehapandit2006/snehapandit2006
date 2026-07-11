@@ -1,318 +1,380 @@
+<!-- ====================================================== -->
+<!--                 NEURAL WORKSPACE                       -->
+<!--             Sneha Pandit's Developer Console           -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sneha%20Pandit&fontSize=48&fontColor=ffffff&animation=fadeIn&color=0:090909,50:111827,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1020,50:1E3A8A,100:7C3AED&text=Neural%20Workspace&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Building+Human-Centered+AI;Computational+Neuroscience+Enthusiast;Open+Source+Contributor"/>
+
+<br><br>
+
+<a href="https://portfolio-orpin-beta-j0xqetvkmx.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sneha-pandit-19010729b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/snehapandit2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/youknowme_how">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=snehapandit2006&style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/snehapandit2006?style=flat-square)
+![](https://img.shields.io/github/stars/snehapandit2006?affiliations=OWNER&style=flat-square)
 
 </div>
+
+---
+
+# > Initializing Neural Workspace
 
 ```console
-──────────────────────────────────────────────────────────────────────────────
+$ initialize
 
-$ sudo neofetch sneha
+Loading Developer Profile...
+████████████████████████████████ 100%
 
-                           .--.
-                        .-(    ).
-                       (___.__)__)
+Loading GitHub Environment...
+████████████████████████████████ 100%
 
-         OS      :: Human 20.0
-         Host    :: GLA University
-         Role    :: AI Engineer
-         Focus   :: Cognitive AI
-         Stack   :: Python • TypeScript • FastAPI
-         AI      :: LLMs • RAG • LangGraph • PyTorch
-         Research:: Emotion AI • Computational Neuroscience
-         Current :: Building Sentia
-         Status  :: Looking for AI Internship
-         Location:: India
+Loading Portfolio...
+████████████████████████████████ 100%
 
-──────────────────────────────────────────────────────────────────────────────
-```
+Loading AI Projects...
+████████████████████████████████ 100%
 
-<div align="center">
+Loading Research Modules...
+████████████████████████████████ 100%
 
-[Portfolio](https://portfolio-orpin-beta-j0xqetvkmx.vercel.app) •
-[LinkedIn](https://linkedin.com/in/sneha-pandit-19010729b) •
-[GitHub](https://github.com/snehapandit2006)
+Workspace Ready.
 
-</div>
-
----
-
-# whoami
-
-```bash
-$ whoami
-```
-
-I'm **Sneha Pandit**, an AI Engineer focused on building systems that understand people instead of simply predicting the next token.
-
-Current interests include
-
-- Cognitive AI
-- Agentic Systems
-- Multimodal Learning
-- Human Memory Modeling
-- Emotion Recognition
-- Computational Neuroscience
-
----
-
-# pwd
-
-```bash
-/home/sneha/projects
-```
-
-```
-.
-├── Sentia
-│   ├── Emotion Intelligence
-│   ├── Cognitive Modelling
-│   ├── Memory Engine
-│   └── Drift Analytics
-│
-├── Bhumi
-│   ├── Legal AI
-│   ├── RAG Pipeline
-│   └── Land Intelligence
-│
-├── AstroAgent
-│
-├── Panopticon
-│
-└── Research
+Welcome back, Sneha.
 ```
 
 ---
 
-# ls skills/
-
-## Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js"/>
-
-</p>
-
----
-
-## AI
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
-
-```
-LLMs
-██████████████████░░ 90%
-
-Prompt Engineering
-█████████████████░░░ 88%
-
-Retrieval Augmented Generation
-███████████████████░ 94%
-
-Computer Vision
-██████████████░░░░░░ 75%
-
-Deep Learning
-████████████████░░░░ 84%
-
-LangGraph
-██████████████████░░ 91%
-
-FastAPI
-███████████████████░ 95%
-```
-
----
-
-# cat mission.txt
-
-```
-Mission:
-
-Build AI systems capable of understanding
-
-• Human Emotion
-
-• Human Memory
-
-• Human Behaviour
-
-instead of merely generating text.
-```
-
----
-
-# git status
-
-```console
-On branch research
-
-Currently Working On
-
-✓ Sentia
-
-✓ Long-Term Memory Architecture
-
-✓ Cognitive State Tracking
-
-✓ AI Evaluation
-
-✓ Behavioral Analytics
-
-✓ Internship Applications
-```
-
----
-
-# tree projects/
-
-```
-Sentia/
-
-├── Emotion Classification
-
-├── Long-Term Memory
-
-├── Cognitive Profile
-
-├── Pattern Detection
-
-├── Drift Analysis
-
-└── LangGraph Pipeline
-
-Status
-
-███████████████████░ 92%
-```
-
----
-
-# github stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=snehapandit2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapandit2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=snehapandit2006&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# contribution graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehapandit2006&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# github snake
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake-dark.svg">
-
-<img src="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
----
-
-# roadmap
+# $ whoami
 
 ```yaml
-2026:
+name: Sneha Pandit
 
-  AI Internship:
-      ████████████░░░░ 70%
+role:
+  - AI Engineer
+  - Full-Stack Developer
+  - Open Source Contributor
 
-  Sentia v2:
-      ███████████████░ 90%
+currently_building:
+  - Sentia
+  - Bhumi
 
-  Research Paper:
-      ██████░░░░░░░░░░ 35%
+interests:
+  - Artificial Intelligence
+  - LLM Engineering
+  - Multimodal AI
+  - Computational Neuroscience
+  - Cognitive Systems
+  - Human-Centered AI
 
-  Open Source:
-      ████████████████ 100%
-
-  MSc Cognitive Science:
-      ████████░░░░░░░░ 45%
+goal:
+  Build AI systems that understand people,
+  not just predict text.
 ```
 
 ---
 
-# currently learning
+# $ neofetch
 
-```bash
-$ learning
-```
+```text
+                   .--.
+                .-(    ).
+               (___.__)__)
 
-```
-✓ Computational Neuroscience
+──────────────────────────────────────────────
 
-✓ Cognitive Science
+Developer      Sneha Pandit
 
-✓ Reinforcement Learning
+Workspace      Neural Workspace
 
-✓ Agentic AI
+Role           AI Engineer
 
-✓ AI Safety
+Education      B.Tech CSE (AI & ML)
 
-✓ Memory Architectures
+Location       India
 
-✓ Distributed Systems
+Languages      Python
+               TypeScript
+               Java
+               SQL
+               C++
 
-✓ Research Methodology
+Frameworks     FastAPI
+               React
+               Next.js
+               Node.js
+
+AI Stack       PyTorch
+               LangChain
+               LangGraph
+               HuggingFace
+               Vector Databases
+
+Research       Emotion AI
+               Cognitive Modeling
+               Human Memory
+               Computational Neuroscience
+
+Current Goal   AI Internship
+
+Status         ONLINE
+
+──────────────────────────────────────────────
 ```
 
 ---
 
-# terminal
+# $ system-status
 
-```bash
-$ cat quote.txt
-```
+| Module | Status |
+|----------|:------:|
+| Developer Profile | 🟢 |
+| GitHub | 🟢 |
+| Portfolio | 🟢 |
+| LinkedIn | 🟢 |
+| Open Source | 🟢 |
+| AI Research | 🟢 |
+| Projects | 🟢 |
+| Learning | 🟢 |
 
-```
-The goal isn't to build AI that talks.
+---
 
-The goal is to build AI that understands.
+
+# $ ls workspace
+
+```text
+Neural Workspace
+│
+├── profile/
+│   ├── about.md
+│   ├── experience.md
+│   ├── achievements.md
+│   └── resume.pdf
+│
+├── projects/
+│   ├── Sentia/
+│   ├── Bhumi/
+│   ├── AstroAgent/
+│   └── Panopticon/
+│
+├── research/
+│   ├── cognitive_science/
+│   ├── multimodal_ai/
+│   ├── llm_systems/
+│   └── neuroscience/
+│
+├── skills/
+│
+└── social/
 ```
 
 ---
+
+# $ cat profile/about.md
+
+```text
+──────────────────────────────────────────────────────────────
+
+Name
+
+Sneha Pandit
+
+Occupation
+
+AI Engineer
+
+Education
+
+B.Tech Computer Science & Engineering (AI & ML)
+
+Focus
+
+• Artificial Intelligence
+
+• Machine Learning
+
+• Large Language Models
+
+• Retrieval-Augmented Generation
+
+• Cognitive Science
+
+• Human-Centered AI
+
+Mission
+
+Build intelligent systems that understand
+people, memory, emotion, and reasoning.
+
+──────────────────────────────────────────────────────────────
+```
+
+---
+
+# $ tree skills/
+
+```text
+skills/
+
+├── Programming
+│   ├── Python
+│   ├── TypeScript
+│   ├── JavaScript
+│   ├── Java
+│   ├── SQL
+│   └── C++
+│
+├── AI
+│   ├── Machine Learning
+│   ├── Deep Learning
+│   ├── NLP
+│   ├── LLM Engineering
+│   ├── Prompt Engineering
+│   ├── RAG
+│   ├── LangChain
+│   ├── LangGraph
+│   └── Hugging Face
+│
+├── Backend
+│   ├── FastAPI
+│   ├── Node.js
+│   ├── Express
+│   ├── REST APIs
+│   └── WebSockets
+│
+├── Frontend
+│   ├── React
+│   ├── Next.js
+│   ├── HTML
+│   ├── CSS
+│   └── Tailwind CSS
+│
+├── Databases
+│   ├── PostgreSQL
+│   ├── MongoDB
+│   ├── Redis
+│   ├── SQLite
+│   ├── Pinecone
+│   ├── ChromaDB
+│   └── FAISS
+│
+└── Tools
+    ├── Docker
+    ├── Linux
+    ├── Git
+    ├── GitHub Actions
+    ├── VS Code
+    └── Google Cloud
+```
+
+---
+
+# $ open social/
 
 <div align="center">
 
-```
-$ exit
-
-Connection closed.
-
-Thanks for stopping by.
-
-Happy Coding.
-```
+| Platform | Link |
+|-----------|------|
+| 🌐 Portfolio | **https://portfolio-orpin-beta-j0xqetvkmx.vercel.app** |
+| 💼 LinkedIn | **linkedin.com/in/sneha-pandit-19010729b** |
+| 💻 GitHub | **github.com/snehapandit2006** |
+| 🐦 X / Twitter | **x.com/youknowme_how** |
 
 </div>
+
+---
+
+# $ current-focus
+
+```yaml
+Building:
+
+  • Sentia
+      Emotion Analysis Platform
+      Status: Active
+
+  • Bhumi
+      AI Land Governance System
+      Status: Active
+
+Learning:
+
+  • Computational Neuroscience
+
+  • Cognitive Science
+
+  • AI Evaluation
+
+  • Agentic AI
+
+Interested In:
+
+  • Research Engineering
+
+  • AI Infrastructure
+
+  • Human-AI Interaction
+
+  • Open Source
+```
+
+---
+
+# $ uptime
+
+```text
+Developer Status
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Current Mode
+
+Research + Engineering
+
+Current Goal
+
+Secure an AI Engineering Internship
+
+Current Stack
+
+Python • FastAPI • LangGraph • React
+
+Favorite Problem
+
+Building AI systems with memory,
+reasoning, and explainability.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# $ echo $MOTTO
+
+```text
+"Build technology that understands people,
+not just technology that responds to them."
+```
+
+---
