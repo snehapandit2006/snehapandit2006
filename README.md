@@ -1,662 +1,539 @@
-<!-- ====================================================== -->
-<!--                 NEURAL WORKSPACE                       -->
-<!--             Sneha Pandit's Developer Console           -->
-<!-- ====================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1020,50:1E3A8A,100:7C3AED&text=Neural%20Workspace&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sneha%20Pandit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full-Stack+Developer;Multimodal+AI+Researcher;Open+Source+Leader+%7C+GSSoC+Project+Admin;Building+Human-Centered+AI+Systems;National+Finalist+%7C+Smart+India+Hackathon"/>
+
+<br/>
+
+🎨 Fields of Expertise<br>🧬 B.Tech AI & ML • 🎓 GLA University • 🤖 Multimodal AI Research • 🌐 GSSoC Admin
+
+🔗 Let's Connect
+
+<a href="https://portfolio-orpin-beta-j0xqetvkmx.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/sneha-pandit-19010729b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/youknowme_how" target="_blank">
+  <img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
+<a href="mailto:sneha20061901@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/snehapandit2006" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Building+Human-Centered+AI;Computational+Neuroscience+Enthusiast;Open+Source+Contributor"/>
+📍 Based in Mathura, India
 
-<br><br>
+<br>
 
-<a href="https://portfolio-orpin-beta-j0xqetvkmx.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
-<a href="https://linkedin.com/in/sneha-pandit-19010729b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/snehapandit2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://x.com/youknowme_how">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=snehapandit2006&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/snehapandit2006?style=flat-square)
-![](https://img.shields.io/github/stars/snehapandit2006?affiliations=OWNER&style=flat-square)
 
 </div>
 
----
+About Me
 
-# > Initializing Neural Workspace
+I'm an AI Engineer, Full-Stack Developer, and Multimodal AI Research Enthusiast focused on building intelligent systems that combine machine learning, scalable infrastructure, and human-centered design.
 
-```console
-$ initialize
+🔗 Check out my live portfolio here: portfolio-orpin-beta-j0xqetvkmx.vercel.app
 
-Loading Developer Profile...
-████████████████████████████████ 100%
+My work spans:
 
-Loading GitHub Environment...
-████████████████████████████████ 100%
+Artificial Intelligence & Machine Learning
 
-Loading Portfolio...
-████████████████████████████████ 100%
+Large Language Models (LLMs)
 
-Loading AI Projects...
-████████████████████████████████ 100%
+Retrieval-Augmented Generation (RAG)
 
-Loading Research Modules...
-████████████████████████████████ 100%
+Multimodal AI Systems
 
-Workspace Ready.
+NLP & Behavioral Modeling
 
-Welcome back, Sneha.
-```
+Full-Stack Product Engineering
 
----
+Open Source Leadership
 
-# $ whoami
+Cloud-Native Development
 
-```yaml
-name: Sneha Pandit
+Currently pursuing a B.Tech in Computer Science & Engineering (AI & ML) at GLA University while contributing to open-source ecosystems and research-driven AI products.
 
-role:
-  - AI Engineer
-  - Full-Stack Developer
-  - Open Source Contributor
+Open To
 
-currently_building:
-  - Sentia
-  - Bhumi
+AI Engineering
 
-interests:
-  - Artificial Intelligence
-  - LLM Engineering
-  - Multimodal AI
-  - Computational Neuroscience
-  - Cognitive Systems
-  - Human-Centered AI
+Applied Machine Learning
 
-goal:
-  Build AI systems that understand people,
-  not just predict text.
-```
+Forward Deployed Engineering
 
----
+Research Engineering
 
-# $ neofetch
+Full-Stack Engineering
 
-```text
-                   .--.
-                .-(    ).
-               (___.__)__)
+Developer Advocacy
 
-──────────────────────────────────────────────
+Open Source Collaborations
 
-Developer      Sneha Pandit
+AI Product Development
 
-Workspace      Neural Workspace
+Tech Stack
 
-Role           AI Engineer
+Languages
 
-Education      B.Tech CSE (AI & ML)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts"/>
+</p>
 
-Location       India
+Frontend
 
-Languages      Python
-               TypeScript
-               Java
-               SQL
-               C++
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+</p>
 
-Frameworks     FastAPI
-               React
-               Next.js
-               Node.js
+Backend & Databases
 
-AI Stack       PyTorch
-               LangChain
-               LangGraph
-               HuggingFace
-               Vector Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgresql,redis"/>
+</p>
 
-Research       Emotion AI
-               Cognitive Modeling
-               Human Memory
-               Computational Neuroscience
+Cloud, DevOps & Tooling
 
-Current Goal   AI Internship
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,gcp,vscode"/>
+</p>
 
-Status         ONLINE
+AI / ML Expertise
 
-──────────────────────────────────────────────
-```
+Domain
 
----
+Proficiency
 
-# $ system-status
+Details
 
-| Module | Status |
-|----------|:------:|
-| Developer Profile | 🟢 |
-| GitHub | 🟢 |
-| Portfolio | 🟢 |
-| LinkedIn | 🟢 |
-| Open Source | 🟢 |
-| AI Research | 🟢 |
-| Projects | 🟢 |
-| Learning | 🟢 |
+NLP
 
----
+Advanced
 
+Transformers, RoBERTa, Text Classification
 
-# $ ls workspace
+LLM Engineering
 
-```text
-Neural Workspace
-│
-├── profile/
-│   ├── about.md
-│   ├── experience.md
-│   ├── achievements.md
-│   └── resume.pdf
-│
-├── projects/
-│   ├── Sentia/
-│   ├── Bhumi/
-│   ├── AstroAgent/
-│   └── Panopticon/
-│
-├── research/
-│   ├── cognitive_science/
-│   ├── multimodal_ai/
-│   ├── llm_systems/
-│   └── neuroscience/
-│
-├── skills/
-│
-└── social/
-```
-
----
-
-# $ cat profile/about.md
-
-```text
-──────────────────────────────────────────────────────────────
-
-Name
-
-Sneha Pandit
-
-Occupation
-
-AI Engineer
-
-Education
-
-B.Tech Computer Science & Engineering (AI & ML)
-
-Focus
-
-• Artificial Intelligence
-
-• Machine Learning
-
-• Large Language Models
-
-• Retrieval-Augmented Generation
-
-• Cognitive Science
-
-• Human-Centered AI
-
-Mission
-
-Build intelligent systems that understand
-people, memory, emotion, and reasoning.
-
-──────────────────────────────────────────────────────────────
-```
-
----
-
-# $ tree skills/
-
-```text
-skills/
-
-├── Programming
-│   ├── Python
-│   ├── TypeScript
-│   ├── JavaScript
-│   ├── Java
-│   ├── SQL
-│   └── C++
-│
-├── AI
-│   ├── Machine Learning
-│   ├── Deep Learning
-│   ├── NLP
-│   ├── LLM Engineering
-│   ├── Prompt Engineering
-│   ├── RAG
-│   ├── LangChain
-│   ├── LangGraph
-│   └── Hugging Face
-│
-├── Backend
-│   ├── FastAPI
-│   ├── Node.js
-│   ├── Express
-│   ├── REST APIs
-│   └── WebSockets
-│
-├── Frontend
-│   ├── React
-│   ├── Next.js
-│   ├── HTML
-│   ├── CSS
-│   └── Tailwind CSS
-│
-├── Databases
-│   ├── PostgreSQL
-│   ├── MongoDB
-│   ├── Redis
-│   ├── SQLite
-│   ├── Pinecone
-│   ├── ChromaDB
-│   └── FAISS
-│
-└── Tools
-    ├── Docker
-    ├── Linux
-    ├── Git
-    ├── GitHub Actions
-    ├── VS Code
-    └── Google Cloud
-```
-
----
-
-# $ open social/
+Advanced
+
+RAG, Prompt Engineering, LangChain
+
+Multimodal AI
+
+Advanced
+
+Text + Vision Fusion Systems
+
+Deep Learning
+
+Advanced
+
+PyTorch, CNNs, Neural Networks
+
+AI Evaluation
+
+Advanced
+
+Behavioral Modeling, Safety Analysis
+
+Vector Databases
+
+Intermediate
+
+Semantic Retrieval Systems
+
+MLOps
+
+Intermediate
+
+Deployment & Monitoring Pipelines
+
+Human-AI Interaction
+
+Advanced
+
+Emotion Modeling & Cognitive Analytics
+
+Featured Projects
+
+<details>
+<summary><b>🟣 Sentia — Multimodal Emotion Drift Analytics Platform</b></summary>
+
+Overview
+
+Sentia is a research-focused multimodal AI platform designed to analyze emotional drift, behavioral consistency, and interaction safety across long-horizon human-AI conversations.
+
+Category
+
+Details
+
+Stack
+
+Python, PyTorch, FastAPI, Transformers
+
+Scale
+
+GoEmotions Dataset (58K Samples)
+
+Performance
+
+P95 Latency < 4 Seconds
+
+Security
+
+Secure API Architecture
+
+Impact
+
+Human-AI Behavioral Analytics
+
+Repository
+
+https://github.com/snehapandit2006/Sentia
+
+Key Contributions
+
+Fine-tuned RoBERTa-based emotion classification pipeline
+
+Built confidence-weighted multimodal fusion architecture
+
+Developed emotional drift analytics using TVD
+
+Designed evaluation framework for conversational safety
+
+Parallelized inference workflows
+
+</details>
+
+<details>
+<summary><b>🟣 Bhumi — Smart Land Governance AI Engine</b></summary>
+
+Overview
+
+An AI-powered land governance system leveraging Retrieval-Augmented Generation to process and retrieve information from dense legal land records.
+
+Category
+
+Details
+
+Stack
+
+LangChain, FastAPI, Vector DB
+
+Scale
+
+Large Legal Document Collections
+
+Performance
+
+Optimized Similarity Search
+
+Security
+
+Domain-Constrained Retrieval
+
+Impact
+
+Government Technology
+
+Repository
+
+https://github.com/snehapandit2006/Bhumi
+
+Key Contributions
+
+End-to-end RAG architecture
+
+Embedding-based retrieval pipelines
+
+Async backend services
+
+Document indexing infrastructure
+
+Smart India Hackathon National Finalist
+
+</details>
+
+<details>
+<summary><b>🟣 Panopticon — Distributed Political-Economic Observability Platform</b></summary>
+
+Overview
+
+Distributed intelligence platform for analyzing political-economic signals through automated entity extraction and event monitoring.
+
+Category
+
+Details
+
+Stack
+
+LangChain, BullMQ, Node.js
+
+Scale
+
+10,000+ Events / Day
+
+Performance
+
+Distributed Queue Architecture
+
+Security
+
+Event Validation Pipelines
+
+Impact
+
+Large Scale Monitoring
+
+Repository
+
+https://github.com/snehapandit2006/Panopticon
+
+Key Contributions
+
+Automated entity extraction
+
+Media intelligence workflows
+
+Distributed ingestion architecture
+
+Async event processing systems
+
+</details>
+
+<details>
+<summary><b>🟣 SaheliConnect — Accessibility & Social Impact Platform</b></summary>
+
+Overview
+
+Technology-driven platform focused on improving accessibility and social impact through AI-enhanced user experiences.
+
+Category
+
+Details
+
+Stack
+
+React, Node.js, AI APIs
+
+Scale
+
+Multi-user Platform
+
+Performance
+
+Responsive Experience
+
+Security
+
+Role-Based Access
+
+Impact
+
+Accessibility Technology
+
+Repository
+
+https://github.com/snehapandit2006/SaheliConnect
+
+Key Contributions
+
+Accessibility-first architecture
+
+AI-powered workflows
+
+Inclusive UX design
+
+Full-stack implementation
+
+</details>
+
+Experience
+
+Project Administrator | GirlScript Summer of Code (GSSoC)
+
+May 2026 – Present
+
+Leading contributor management and project governance across open-source initiatives.
+
+Scope
+
+Reviewing and merging pull requests
+
+Managing contributor onboarding
+
+Maintaining project documentation
+
+Coordinating distributed development teams
+
+SkillsOpen Source Leadership Git GitHub Code Review
+
+Freelance AI & Full-Stack Developer
+
+Aug 2022 – Present
+
+Designed and deployed production-grade applications integrating AI capabilities and modern web technologies.
+
+Scope
+
+AI Integration
+
+LLM Applications
+
+Full-Stack Development
+
+Product Deployment
+
+Client Delivery
+
+SkillsReact Node.js FastAPI OpenAI Cloud
+
+Google Cloud Arcade Facilitator
+
+Google Cloud Skills Boost2025
+
+Scope
+
+Cloud Mentorship
+
+Workshops
+
+Skill Badge Guidance
+
+Peer Learning
+
+SkillsGoogle Cloud Mentoring Developer Relations
+
+Achievements
 
 <div align="center">
 
-| Platform | Link |
-|-----------|------|
-| 🌐 Portfolio | **https://portfolio-orpin-beta-j0xqetvkmx.vercel.app** |
-| 💼 LinkedIn | **linkedin.com/in/sneha-pandit-19010729b** |
-| 💻 GitHub | **github.com/snehapandit2006** |
-| 🐦 X / Twitter | **x.com/youknowme_how** |
+Recognition
+
+Details
+
+Smart India Hackathon
+
+National Finalist
+
+Smart India Hackathon
+
+Internal Winner
+
+IBM Praambh Hack Challenge
+
+National Phase 2 Selection
+
+GSSoC 2026
+
+Project Administrator
+
+Google Cloud Arcade
+
+Facilitator Cohort 2
+
+Open Source Connect
+
+Contributor
 
 </div>
 
----
+Certifications
 
-# $ current-focus
+AWS
 
-```yaml
-Building:
 
-  • Sentia
-      Emotion Analysis Platform
-      Status: Active
 
-  • Bhumi
-      AI Land Governance System
-      Status: Active
+Oracle
+
+
+
+NPTEL
+
+
+
+Cisco
+
+
+
+Additional
+
+
+
+GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehapandit2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapandit2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=snehapandit2006&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+GitHub Core Metrics
+
+<div align="center">
+
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehapandit2006&theme=tokyonight" alt="Sneha's GitHub Metrics" />
+
+</div>
+
+Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehapandit2006&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/snehapandit2006/snehapandit2006/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+Current Focus
 
 Learning:
-
-  • Computational Neuroscience
-
-  • Cognitive Science
-
-  • AI Evaluation
-
-  • Agentic AI
-
-Interested In:
-
-  • Research Engineering
-
-  • AI Infrastructure
-
-  • Human-AI Interaction
-
-  • Open Source
-```
-
----
-
-# $ uptime
-
-```text
-Developer Status
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Current Mode
-
-Research + Engineering
-
-Current Goal
-
-Secure an AI Engineering Internship
-
-Current Stack
-
-Python • FastAPI • LangGraph • React
-
-Favorite Problem
-
-Building AI systems with memory,
-reasoning, and explainability.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# $ echo $MOTTO
-
-```text
-"Build technology that understands people,
-not just technology that responds to them."
-```
-
----
-
----
-
-# $ cd projects
-
-```console
-Opening Project Explorer...
-
-Workspace Loaded Successfully.
-
-Projects Found: 4
-
-──────────────────────────────────────────────────────────────
-```
-
-<details open>
-<summary><b>📁 Sentia</b></summary>
-
-<br>
-
-```yaml
-Project:
-    Sentia
-
-Type:
-    Multimodal AI Platform
-
-Status:
-    Active Development
-
-Focus:
-    Emotion Analysis
-    Cognitive Modeling
-    Long-Term Memory
-    Behavioral Pattern Detection
-
-Tech Stack:
-    Python
-    FastAPI
-    PyTorch
-    LangGraph
-    LangChain
-    SQLite
-
-Repository:
-    github.com/snehapandit2006/Sentia
-```
-
-### Features
-
-- Emotion Detection
-- Cognitive State Tracking
-- Long-Term Conversation Memory
-- Behavioral Pattern Analysis
-- RAG-powered Reasoning
-- Explainable AI
-
-```
-Current Progress
-
-█████████████████████████████░░░░ 88%
-```
-
-</details>
-
----
-
-<details>
-<summary><b>📁 Bhumi</b></summary>
-
-<br>
-
-```yaml
-Project:
-    Bhumi
-
-Type:
-    AI-powered Land Governance
-
-Status:
-    Active Development
-
-Domain:
-    Legal AI
-    Government Technology
-
-Stack:
-    FastAPI
-    LangChain
-    ChromaDB
-    Python
-
-Goal:
-    Make land records easier to search,
-    understand and verify using AI.
-```
-
-### Features
-
-- Retrieval-Augmented Generation
-- Legal Document Search
-- Vector Database Search
-- Semantic Querying
-- AI Assistant
-
-```
-Current Progress
-
-████████████████████████░░░░░░░░ 74%
-```
-
-</details>
-
----
-
-<details>
-<summary><b>📁 AstroAgent</b></summary>
-
-<br>
-
-```yaml
-Project:
-    AstroAgent
-
-Type:
-    AI Companion
-
-Status:
-    Stable
-
-Purpose:
-    Personalized AI-assisted
-    astrology conversations
-
-Stack:
-    React
-    FastAPI
-    SQLite
-    LangChain
-
-Features:
-    Birth Chart Generation
-    Chat Interface
-    Offline Calculations
-    Persistent Memory
-```
-
-</details>
-
----
-
-<details>
-<summary><b>📁 Panopticon</b></summary>
-
-<br>
-
-```yaml
-Project:
-    Panopticon
-
-Type:
-    Distributed Intelligence Platform
-
-Domain:
-    Political & Economic Intelligence
-
-Stack:
-    Node.js
-    BullMQ
-    LangChain
-    Redis
-
-Purpose:
-    Large-scale event monitoring
-    and information retrieval.
-```
-
-</details>
-
----
-
-# $ project-summary
-
-```text
-Repositories
-
-Public Projects ............... 20+
-
-AI Projects ................... 8+
-
-Languages ..................... 5+
-
-Frameworks .................... 15+
-
-Years Coding .................. 4+
-
-Open Source ................... Active
-```
-
----
-
-# $ ls research/
-
-```text
-research/
-
-├── Computational Neuroscience
-
-├── Cognitive Science
-
-├── Human Memory
-
-├── Emotion AI
-
-├── LLM Evaluation
-
-├── Agentic AI
-
-├── Human-AI Interaction
-
-└── Multimodal Systems
-```
-
----
-
-# $ research --active
-
-```yaml
-Current Reading
-
-• The Man Who Mistook His Wife for a Hat
-
-• Attention Is All You Need
-
-• ReAct
-
-• Toolformer
-
-• LangGraph Documentation
-
-• Computational Psychiatry Papers
-
-Research Goal
-
-Bridge AI engineering with
-cognitive science to build
-more human-centered intelligent systems.
-```
-
----
-
-# $ history --career
-
-```text
-2026
-
-├── Project Administrator
-│   GirlScript Summer of Code
-│
-├── Google Cloud Facilitator
-│
-├── Smart India Hackathon
-│   National Finalist
-│
-└── Building AI Products
-```
-
----
-
-# $ learning --status
-
-| Area | Progress |
-|------|----------|
-| LLM Engineering | ████████████████░░ |
-| Agentic AI | ██████████████░░░░ |
-| LangGraph | █████████████████░ |
-| PyTorch | ███████████████░░░ |
-| Cognitive Science | █████████████░░░░ |
-| Neuroscience | ██████████░░░░░░░ |
-| MLOps | █████████░░░░░░░░░ |
-
----
+  - Advanced Multimodal AI
+  - AI Evaluation Systems
+  - Human-AI Interaction
+  - Distributed ML Systems
+
+Building:
+  - Sentia
+  - AI Research Platforms
+  - Open Source Infrastructure
+
+Exploring:
+  - Agentic AI
+  - Cognitive Modeling
+  - Forward Deployed Engineering
+  - AI Safety
+
+Open_To:
+  - AI Engineering Internships
+  - Research Collaborations
+  - Open Source Leadership
+  - Startup Opportunities
+
+"Engineering intelligent systems is not just about building AI. It's about building technology that understands, scales, and creates meaningful impact."
