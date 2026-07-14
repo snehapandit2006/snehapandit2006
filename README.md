@@ -103,7 +103,9 @@ React • TypeScript • FastAPI • LangGraph • SQLite • ChromaDB
 
 **Smart Land Governance AI Platform**
 
-🏆 National Finalist — Smart India Hackathon 2024
+### Overview
+
+Bhumi is an AI-powered land governance platform that combines Retrieval-Augmented Generation (RAG), semantic search, and backend automation to simplify land record retrieval and legal document understanding.
 
 ### Highlights
 
@@ -112,6 +114,36 @@ React • TypeScript • FastAPI • LangGraph • SQLite • ChromaDB
 - Semantic search using embeddings
 - Async document processing
 - Vector database architecture
+
+### Future Vision
+
+Bhumi is being expanded into an AI-powered Land Intelligence Platform that goes beyond document retrieval to assist governments, architects, farmers, and landowners in planning, analyzing, and sustainably utilizing land resources.
+
+#### 🏡 AI Land Visualization
+- Generate AI-assisted 2D and 3D concepts for residential, commercial, agricultural, and industrial development.
+- Help architects and property owners visualize possible land utilization before construction.
+
+#### 🌱 Land Intelligence
+- Analyze terrain, soil composition, groundwater, climate, and surrounding infrastructure.
+- Recommend the most suitable use of the land based on environmental and geographical factors.
+
+#### 🚜 Smart Agriculture
+- Recommend crops, irrigation methods, fertilizer strategies, and seasonal farming plans using agricultural datasets.
+
+#### 🌍 Land Restoration
+- Detect degraded or unused land and suggest AI-assisted restoration strategies including afforestation, soil recovery, and rainwater harvesting.
+
+#### 🛰 GIS & Satellite Integration
+- Combine satellite imagery, GIS layers, and government land records to build a digital twin of the property.
+
+#### 🤖 AI Planning Assistant
+Users will be able to ask questions such as:
+
+- Can I build a duplex on this land?
+- Which crops are suitable for this region?
+- What irrigation system would be most effective?
+- How can this barren land be restored?
+- What is the estimated construction feasibility and development cost?
 
 ---
 
